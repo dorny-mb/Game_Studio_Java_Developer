@@ -1,7 +1,5 @@
 # Game_Studio_Java_Developer
 
-### Java Developer Expertise Test
-
 ## Part 1
 
 Create a Github account on github [https://github.com/](https://github.com/ 'Github') or use your existing account if you
