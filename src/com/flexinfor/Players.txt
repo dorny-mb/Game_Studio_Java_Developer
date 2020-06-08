@@ -1,2 +1,2 @@
-Tiki_Monkey,3.63600442E8,1.0100791E7
-Barbara,4473.0,2518.0
+Tiki_Monkey,1.0,3.0
+Barbara,42.0,83.0
